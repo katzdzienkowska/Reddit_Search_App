@@ -1,5 +1,3 @@
-<br/>
-
 # Reddit Search - React.js App with API requests and hooks (useState & useEffect)
 
 ## Project Brief:
