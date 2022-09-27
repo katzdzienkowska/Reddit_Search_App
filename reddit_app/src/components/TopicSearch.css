@@ -1,0 +1,30 @@
+.form-container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+#search {
+    background-color: #f6f7f8;
+    border: 1px solid #EDEFF1;
+    border-radius: 4px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+#button {
+    background-color: #f6f7f8;
+    color: rgb(83, 83, 83);
+    border: 1px solid #EDEFF1;
+    border-radius: 4px;
+    height: 30px;
+    box-sizing: border-box;
+}

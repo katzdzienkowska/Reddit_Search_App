@@ -1,0 +1,22 @@
+.post-item {
+    list-style:none;
+    margin-left: 25px;
+}
+
+.post-item a {
+    text-decoration: none;
+    color: rgb(83, 83, 83);
+}
+
+.post-item::before {
+    content: '\2022';
+    color: rgb(255, 106, 0);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+/* ::marker {
+
+} */
