@@ -8,6 +8,10 @@
     color: rgb(83, 83, 83);
 }
 
+.post-item a:hover {
+    color: rgb(255, 106, 0);
+}
+
 .post-item::before {
     content: '\2022';
     color: rgb(255, 106, 0);
@@ -16,7 +20,3 @@
     width: 1em;
     margin-left: -1em;
 }
-
-/* ::marker {
-
-} */

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import PostList from '../components/PostList';
 import TopicSearch from '../components/TopicSearch';
 import Results from '../components/Results';
-import './RedditContainer.css'
+import './RedditContainer.css';
 
 const RedditContainer = () => {
 

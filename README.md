@@ -1,5 +1,13 @@
 # Reddit Search - React.js App with API requests and hooks (useState & useEffect)
 
+<br/>
+
+## App Running:
+
+![screen-gif](./reddit_app/public/reddit.gif)
+
+<br/>
+
 ## Project Brief:
 
 Create an application that makes a request to an API and displays the data.

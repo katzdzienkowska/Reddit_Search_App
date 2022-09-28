@@ -12,7 +12,7 @@
     gap: 5px;
 }
 
-#search {
+.search {
     background-color: #f6f7f8;
     border: 1px solid #EDEFF1;
     border-radius: 4px;
@@ -20,7 +20,7 @@
     box-sizing: border-box;
 }
 
-#button {
+button {
     background-color: #f6f7f8;
     color: rgb(83, 83, 83);
     border: 1px solid #EDEFF1;

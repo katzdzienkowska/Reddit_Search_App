@@ -19,8 +19,9 @@ const TopicSearch = ({ onTopicSelected }) => {
     return (
         <section className='form-container'>
             <form className='form' onSubmit={handleTopicSubmit}>
-                <input id='search' type='text' placeholder='Search here' autoFocus autoComplete='off' required value={topicChange} onChange={handleTopicChange} />
-                <input id='button' type='submit' value='Search'></input>
+                <label htmlFor='search'></label>
+                <input className='search' type='text' name='search' placeholder='Search here' autoFocus autoComplete='off' required value={topicChange} onChange={handleTopicChange} />
+                <button>Search</button>
             </form>
         </section>
     );

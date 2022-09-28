@@ -1,6 +1,6 @@
 import React from 'react';
 import RedditContainer from "./containers/RedditContainer";
-import './App.css'
+import './App.css';
 
 const App = () => {
   return (
